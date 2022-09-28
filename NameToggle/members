@@ -1,5 +1,0 @@
-CREATE DATABASE members;
- GRANT ALL
- ON members
- TO "adrian"
- IDENTIFIED BY 'stapler12';
